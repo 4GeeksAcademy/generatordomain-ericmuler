@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  margin: 100;
+  font-weight: bold;
+}
+
+.botoncillo {
+  text-align: center;
+  padding: 20px 20px;
+  font-style: italic;
+}
+
+button {
+  padding: 10px 20px;
+  font-weight: bold;
+}
